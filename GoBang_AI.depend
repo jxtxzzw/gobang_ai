@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1492085334 source:c:\users\wyj\desktop\gobang_ai\gobang_ai.rc
+	"resource.h"
+	"afxres.h"
+
+1491109930 c:\users\wyj\desktop\gobang_ai\resource.h
+
+1495528268 source:c:\users\wyj\desktop\gobang_ai\main.cpp
+	<windows.h>
+	<commdlg.h>
+	<tchar.h>
+	"resource.h"
+	"AI.h"
+
+1492503077 c:\users\wyj\desktop\gobang_ai\ai.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1492085334 source:c:\users\wyj\desktop\学习\人工智能\作业\03\gobang_ai\gobang_ai.rc
+	"resource.h"
+	"afxres.h"
+
+1491109930 c:\users\wyj\desktop\学习\人工智能\作业\03\gobang_ai\resource.h
+
+1492503356 source:c:\users\wyj\desktop\学习\人工智能\作业\03\gobang_ai\main.cpp
+	<windows.h>
+	<commdlg.h>
+	<tchar.h>
+	"resource.h"
+	"AI.h"
+
+1492503077 c:\users\wyj\desktop\学习\人工智能\作业\03\gobang_ai\ai.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1492085334 source:p:\workspace\codeblocks\gobang_ai\gobang_ai.rc
+	"resource.h"
+	"afxres.h"
+
+1491109930 p:\workspace\codeblocks\gobang_ai\resource.h
+
+1525160390 source:p:\workspace\codeblocks\gobang_ai\main.cpp
+	<windows.h>
+	<commdlg.h>
+	<tchar.h>
+	"resource.h"
+	"AI.h"
+
+1525161043 p:\workspace\codeblocks\gobang_ai\ai.h
+	<bits/stdc++.h>
+
+1492085334 source:t:\待办\未完成作业\人工智能\五子棋\gobang_ai\gobang_ai.rc
+	"resource.h"
+	"afxres.h"
+
+1491109930 t:\待办\未完成作业\人工智能\五子棋\gobang_ai\resource.h
+
